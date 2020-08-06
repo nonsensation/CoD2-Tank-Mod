@@ -1,0 +1,16 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\serthy_mods/hybrid\g_antilag\1\g_gametype\tdm\gamename\Call of Duty 2\mapname\mp_brecourt\protocol\117\shortversion\1.2\sv_allowAnonymous\0\sv_floodProtect\1\sv_hostname\World Of Tanks\sv_maxclients\64\sv_maxPing\0\sv_maxRate\25000\sv_minPing\0\sv_privateClients\0\sv_punkbuster\0\sv_pure\1\sv_voice\1
+  0:00 * * * * * * * * * * * [TANKS ENABLED] * * * * * * * * * * *
+  0:00 *		tank_debug: 		0
+  0:00 *		tank_count: 		6
+  0:00 *		tank_health: 		0
+  0:00 *		tank_dmg_min: 		0
+  0:00 *		tank_dmg_max: 		100
+  0:00 *		tank_dmg_radius: 	64
+  0:00 *		tank_dmg_crush: 	100
+  0:00 *		tank_perteam: 		1
+  0:00 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+  0:27 J;0;0;^1[^3BpF^1]^^0Serthy
+  4:37 Q;0;0;^1[^3BpF^1]^^0Serthy
+  4:41 ShutdownGame:
+  4:41 ------------------------------------------------------------

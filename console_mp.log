@@ -1,0 +1,339 @@
+logfile opened on Mon Jun 09 16:26:36 2014
+
+      dvar set viewlog 1
+      dvar set com_playerProfile Serthy
+execing default_mp.cfg
+couldn't exec language.cfg
+execing players/Serthy/config_mp.cfg
+      dvar set cg_headiconminscreenradius 0.015
+      dvar set cl_freelook 1
+      dvar set cl_mouseAccel 0
+      dvar set com_introPlayed 1
+      dvar set com_maxfps 250
+      dvar set loc_forceEnglish 0
+      dvar set loc_language 2
+loc_language will be changed upon restarting.
+      dvar set m_filter 0
+      dvar set m_pitch 0.022
+      dvar set sensitivity 5
+      dvar set dedicated 2
+dedicated is read only.
+      dvar set fs_game serthy_mods/hybrid
+fs_game is write protected.
+      dvar set developer 1
+      dvar set developer_script 0
+      dvar set logfile 2
+      dvar set loc_language 2
+      dvar set loc_forceEnglish 0
+      dvar set com_hunkMegs 160
+      dvar set version CoD2 MP 1.2 build pc_1.3_1_1 Thu Mar 30 2006 07:35:42PM win-x86
+Measured CPU speed is 3.29 GHz
+System memory is 1024 MB (capped at 1 GB)
+Video card is "AMD Radeon R9 200 Series"
+Streaming SIMD Extensions (SSE) supported
+
+      dvar set in_mouse 1
+      dvar set g_gametype random
+      dvar set sv_maxclients 20
+Winsock Initialized
+      dvar set net_noudp 0
+      dvar set net_noipx 0
+      dvar set net_socksEnabled 0
+      dvar set net_socksServer 
+      dvar set net_socksPort 1080
+      dvar set net_socksUsername 
+      dvar set net_socksPassword 
+      dvar set net_noudp 0
+      dvar set net_noipx 0
+      dvar set net_socksEnabled 0
+      dvar set net_socksServer 
+      dvar set net_socksPort 1080
+      dvar set net_socksUsername 
+      dvar set net_socksPassword 
+Opening IP socket: localhost:28960
+      dvar set net_port 28960
+Hostname: EliasPC
+IP: 192.168.2.102
+      dvar set net_port 28960
+--- Common Initialization Complete ---
+      dvar set dedicated 2
+dedicated is read only.
+      dvar set fs_game serthy_mods/hybrid
+fs_game is write protected.
+      dvar set developer 1
+      dvar set developer_script 0
+      dvar set logfile 2
+execing server.cfg
+      dvar set rcon_password lol
+      dvar set logfile 1
+      dvar set g_log games_mp.log
+      dvar set g_logSync 2
+      dvar set sv_maxclients 64
+sv_maxclients will be changed upon restarting.
+      dvar set sv_privateClients 0
+      dvar set sv_privatePassword 
+      dvar set sv_kickBanTime 300
+      dvar set sv_hostname World Of Tanks
+      dvar set net_port 28960
+      dvar set sv_maxRate 25000
+      dvar set sv_minPing 0
+      dvar set sv_maxPing 0
+      dvar set g_antilag 1
+      dvar set sv_pure 1
+      dvar set sv_cheats 1
+sv_cheats is write protected.
+      dvar set sv_floodProtect 1
+      dvar set sv_fps 20
+      dvar set g_deadChat 1
+      dvar set sv_disableClientConsole 0
+      dvar set sv_allowDownload 0
+      dvar set sv_wwwBaseURL 
+      dvar set sv_wwwDlDisconnected 0
+      dvar set sv_wwwDownload 0
+      dvar set sv_reconnectlimit 3
+      dvar set g_allowvote 0
+      dvar set g_oldVoting 0
+      dvar set sv_voice 1
+      dvar set sv_voiceQuality 2
+      dvar set loc_forceEnglish 1
+loc_forceEnglish will be changed upon restarting.
+      dvar set g_gametype tdm
+g_gametype will be changed upon restarting.
+      dvar set sv_mapRotation gametype tdm map mp_brecourt
+      dvar set sv_mapRotationCurrent 
+Working directory: E:\cod2
+map_rotate...
+
+"sv_mapRotation" is:"gametype tdm map mp_brecourt"
+
+"sv_mapRotationCurrent" is:""
+
+      dvar set sv_mapRotationCurrent gametype tdm map mp_brecourt
+      dvar set sv_mapRotationCurrent  tdm map mp_brecourt
+      dvar set sv_mapRotationCurrent  map mp_brecourt
+Setting g_gametype: tdm.
+      dvar set g_gametype tdm
+      dvar set sv_mapRotationCurrent  mp_brecourt
+      dvar set sv_mapRotationCurrent 
+Setting map: mp_brecourt.
+      dvar set g_gametype tdm
+      dvar set g_gametype tdm
+      dvar set mapname mp_brecourt
+------ Server Initialization ------
+Server: mp_brecourt
+Current language: german
+Current search path:
+E:\cod2\serthy_mods\hybrid\serthy_tank_001.iwd (51 files)
+E:\cod2/serthy_mods/hybrid
+E:\cod2\main\iw_15.iwd (84 files)
+E:\cod2\main\iw_14.iwd (4038 files)
+E:\cod2\main\iw_13.iwd (22624 files)
+E:\cod2\main\iw_12.iwd (1016 files)
+E:\cod2\main\iw_11.iwd (1462 files)
+E:\cod2\main\iw_10.iwd (1936 files)
+E:\cod2\main\iw_09.iwd (2142 files)
+E:\cod2\main\iw_08.iwd (2723 files)
+E:\cod2\main\iw_07.iwd (3384 files)
+E:\cod2\main\iw_06.iwd (990 files)
+E:\cod2\main\iw_05.iwd (928 files)
+E:\cod2\main\iw_04.iwd (698 files)
+E:\cod2\main\iw_03.iwd (26 files)
+E:\cod2\main\iw_02.iwd (40 files)
+E:\cod2\main\iw_01.iwd (16 files)
+E:\cod2\main\iw_00.iwd (102 files)
+E:\cod2/main
+E:\cod2/raw
+E:\cod2/raw_shared
+E:\cod2/devraw
+E:\cod2/devraw_shared
+E:\cod2\main\localized_german_iw11.iwd (2 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw10.iwd (416 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw09.iwd (49 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw08.iwd (8 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw07.iwd (1084 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw06.iwd (2822 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw05.iwd (5672 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw04.iwd (6084 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw03.iwd (6270 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw02.iwd (5924 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw01.iwd (4622 files)
+    localized assets iwd file for german
+E:\cod2\main\localized_german_iw00.iwd (5400 files)
+    localized assets iwd file for german
+
+File Handles:
+handle 1: console_mp.log
+----------------------
+161228 files in iwd files
+      dvar set loc_language 2
+      dvar set loc_forceEnglish 1
+      dvar set com_expectedHunkUsage 88820736
+	Loading 'ui_mp/ingame.menu'...
+	Loading 'ui_mp/ingame_controls.menu'...
+	Loading 'ui_mp/ingame_options.menu'...
+	Loading 'ui_mp/ingame_system.menu'...
+	Loading 'ui_mp/ingame_leave.menu'...
+	Loading 'ui_mp/ingame_callvote.menu'...
+	Loading 'ui_mp/wm_quickmessage.menu'...
+Menu load error: ui_mp/wm_quickmessage.menu, line 9: unknown menu keyword name
+Menu load error: ui_mp/wm_quickmessage.menu, line 10: unknown menu keyword quickmessage
+Menu load error: ui_mp/wm_quickmessage.menu, line 10: unknown menu keyword visible
+Menu load error: ui_mp/wm_quickmessage.menu, line 10: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 11: unknown menu keyword fullscreen
+Menu load error: ui_mp/wm_quickmessage.menu, line 11: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 12: unknown menu keyword rect
+Menu load error: ui_mp/wm_quickmessage.menu, line 12: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 12: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 12: unknown menu keyword 640
+Menu load error: ui_mp/wm_quickmessage.menu, line 12: unknown menu keyword 480
+Menu load error: ui_mp/wm_quickmessage.menu, line 13: unknown menu keyword focuscolor
+Menu load error: ui_mp/wm_quickmessage.menu, line 13: unknown menu keyword 1
+Menu load error: ui_mp/wm_quickmessage.menu, line 13: unknown menu keyword 1
+Menu load error: ui_mp/wm_quickmessage.menu, line 13: unknown menu keyword 1
+Menu load error: ui_mp/wm_quickmessage.menu, line 13: unknown menu keyword 1
+Menu load error: ui_mp/wm_quickmessage.menu, line 14: unknown menu keyword disablecolor
+Menu load error: ui_mp/wm_quickmessage.menu, line 14: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 14: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 14: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 14: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 15: unknown menu keyword style
+Menu load error: ui_mp/wm_quickmessage.menu, line 15: unknown menu keyword 0
+Menu load error: ui_mp/wm_quickmessage.menu, line 17: unknown menu keyword onOpen
+Menu load error: ui_mp/wm_quickmessage.menu, line 18: unknown menu keyword {
+Menu load error: ui_mp/wm_quickmessage.menu, line 19: unknown menu keyword setDvar
+Menu load error: ui_mp/wm_quickmessage.menu, line 19: unknown menu keyword cl_bypassMouseInput
+Menu load error: ui_mp/wm_quickmessage.menu, line 20: unknown menu keyword 1
+Menu load error: ui_mp/wm_quickmessage.menu, line 20: menu has no name
+      dvar set nextmap map_restart
+      dvar set cl_paused 0
+      dvar set sv_serverid 16
+------- Game Initialization -------
+gamename: Call of Duty 2
+gamedate: Mar 30 2006
+----------------------
+Game: G_SetupWeaponDef
+----------------------
+      dvar set g_gametype tdm
+      dvar set sv_maxclients 64
+      dvar set dedicated 2
+      dvar set dedicated 2
+      dvar set g_useholdspawndelay 1
+      dvar set g_gravity 800
+-----------------------------------
+      dvar set sv_hostname World Of Tanks
+      dvar set g_allowVote 0
+      dvar set scr_friendlyfire 0
+frag_grenade_american_mp: WEAPON_FRAGGRENADE
+smoke_grenade_american_mp: WEAPON_SMOKEGRENADE
+frag_grenade_german_mp: WEAPON_FRAGGRENADE
+smoke_grenade_german_mp: WEAPON_SMOKEGRENADE
+      dvar set g_TeamName_Allies MPUI_AMERICAN
+      dvar set g_TeamColor_Allies 0.25098 0.74902 0.25098 0
+      dvar set g_ScoresBanner_Allies mpflag_american
+      dvar set g_TeamName_Axis MPUI_GERMAN
+      dvar set g_TeamColor_Axis 0.6 0.6 0.6 0
+      dvar set g_ScoresBanner_Axis mpflag_german
+      dvar set scr_killcam 1
+=============================== DVAR DUMP ========================================
+
+476 total dvars
+476 dvar indexes
+=============================== END DVAR DUMP =====================================
+      dvar set sv_iwds -1428398745 2103914635 -1449716526 780394069 -1333623355 -1980843666 1334775335 -621896007 1101180720 1046874969 1053665859 1842349204 -1652414412 1659111092 -1085686032 -2025394354 178615151 
+      dvar set sv_iwdNames serthy_tank_001 iw_15 iw_14 iw_13 iw_12 iw_11 iw_10 iw_09 iw_08 iw_07 iw_06 iw_05 iw_04 iw_03 iw_02 iw_01 iw_00
+      dvar set sv_referencedIwds -1428398745 2103914635 780394069 1101180720 1046874969 1053665859 1659111092 
+      dvar set sv_referencedIwdNames serthy_mods/hybrid/serthy_tank_001 main/iw_15 main/iw_13 main/iw_08 main/iw_07 main/iw_06 main/iw_03
+-----------------------------------
+      dvar set sv_cheats 0
+execing serthy_tank.cfg
+Hitch warning: 2466 msec frame time
+Resolving cod2master.activision.com
+cod2master.activision.com resolved to 63.146.124.40:20710
+Sending heartbeat to cod2master.activision.com
+PunkBuster Server: Preparing to Disable PB Server... (E:\cod2\pb\)
+Hitch warning: 2489 msec frame time
+Resolving cod2master.activision.com
+cod2master.activision.com resolved to 63.146.124.40:20700
+sending getIpAuthorize for 63.146.124.40:20710
+SV_DirectConnect()
+Client 1 connecting with 0 challenge ping from 192.168.2.102:28961
+Connecting player #0 has a zero GUID
+Going from CS_FREE to CS_CONNECTED for  (num 0 guid 0)
+[^3BpF^1]^^0Serthy : dropped gamestate, resending
+SV_SendClientGameState() for ^1[^3BpF^1]^^0Serthy
+Going from CS_CONNECTED to CS_PRIMED for ^1[^3BpF^1]^^0Serthy
+Sending 10817 bytes in gamestate to client: 0
+Sending heartbeat to cod2master.activision.com
+Going from CS_PRIMED to CS_ACTIVE for ^1[^3BpF^1]^^0Serthy
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - !count:
+[^3BpF^1]^^0Serthy: (writing snapshot) Snapshot delta request from out of date packet.
+client text ignored for ^1[^3BpF^1]^^0Serthy: vdr
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - >999 calculated ping:
+Giving ^1[^3BpF^1]^^0Serthy a 999 ping - >999 calculated ping:
+WARNING: Non-localized Game Message string is not allowed to have letters in it. Must be changed over to a localized string: "Hold [^5Melee^7] to drive forward"
+WARNING: Non-localized Game Message string is not allowed to have letters in it. Must be changed over to a localized string: "Hold [^5Melee^7] & [^5F^7] to break/drive back"
+WARNING: Non-localized Game Message string is not allowed to have letters in it. Must be changed over to a localized string: "Hold [^5Attack^7] to rotate"
+WARNING: Non-localized Game Message string is not allowed to have letters in it. Must be changed over to a localized string: "[^5L^7] to exit"
+WARNING: Non-localized Game Message string is not allowed to have letters in it. Must be changed over to a localized string: "[^5P^7] to change view"
+WARNING: Non-localized Game Message string is not allowed to have letters in it. Must be changed over to a localized string: "[^5Space^7] to Attack"
+Sending heartbeat to cod2master.activision.com
+Going to CS_ZOMBIE for ^1[^3BpF^1]^^0Serthy
+0:^1[^3BpF^1]^^0Serthy EXE_DISCONNECTED
+Sending heartbeat to cod2master.activision.com
+Going from CS_ZOMBIE to CS_FREE for 
+quitting...
+----- CL_Shutdown -----
+-----------------------
+----- Server Shutdown -----
+Sending heartbeat to cod2master.activision.com
+==== ShutdownGame ====
+      dvar set sv_running 0
+---------------------------
