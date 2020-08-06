@@ -1,44 +1,22 @@
+# Tanks for CoD2
 
+Clientside files are needed for running this.
 
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-*						Tanks for CoD2
-*
-*	Clientside files are needed for running this.
-*
-*	Version: 001
-*
-*	Stay updated and download the latest version here:
-*		http://killtube.org/showthread.php?1624-DOWNLOAD-COD2-TANKs&p=7572#post7572
-*
-*	Happy killing, cheers Serthy
-*
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-*	
-*						Serthy
-*				
-*				xFire: serthy
-*				eMail: serthy@ymail.com
-*				Steam: the_serth
-*				Origin: the_serth
-*				YouTube: serthylicious
-*	
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-*	This script is called from:
-*		File:
-*			maps\mp\gametypes\_callbacksetup.gsc
-*		Function:
-*			CodeCallback_StartGameType()
-*		Call:
-*			level thread serthy\main::init();
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-*	The Model was taken from:
-*		http://tf3dm.com/3d-model/abrams-tank-17774.html
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-*	TODO:
+Version: 001
+
+Stay updated and download the latest version here: [killtube.org](http://killtube.org/showthread.php?1624-DOWNLOAD-COD2-TANKs&p=7572#post7572)
+
+Happy killing, cheers :3li
+
+## Setup
+
+- This script is called from:
+  - File: `maps\mp\gametypes\_callbacksetup.gsc`
+  - Function: `CodeCallback_StartGameType()`
+  - Call: `level thread serthy\main::init();`
+- The Model was taken from: http://tf3dm.com/3d-model/abrams-tank-17774.html
+
+### TODO
 *		# huds										
 *	[ ]		> target hud							
 *	[ ]		> tank hud + damage + rotation			
@@ -76,4 +54,3 @@
 *	[ ]		> fix track blend issue
 *	[ ]		> combine tracks and body if no more anim is needed
 *	[ ]		> modify gun model ifrotation issue isnt solved		
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
