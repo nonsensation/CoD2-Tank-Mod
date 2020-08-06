@@ -1,5 +1,7 @@
 #Tanks for CoD2
 
+[See the video on YouTube](https://www.youtube.com/watch?v=UOOqMKkkc8o)
+
 Clientside files are needed for running this.
 
 Version: 001
@@ -14,44 +16,44 @@ Happy killing, cheers :3li
   - File: `maps\mp\gametypes\_callbacksetup.gsc`
   - Function: `CodeCallback_StartGameType()`
   - Call: `level thread serthy\main::init();`
-- The Model was taken from: http://tf3dm.com/3d-model/abrams-tank-17774.html
+- The Model was taken from: [tf3dm.com](http://tf3dm.com/3d-model/abrams-tank-17774.html)
 
 ### TODO
 
-* huds
-  * [ ] target hud
-  * [ ] tank hud + damage + rotation
-* sound
-  * [ ] idle
-  * [ ] fire
-  * [ ] rotation
-  * [ ] drive
-  * [ ] drive backwards
-* damage
-  * [ ] hud
-  * [ ] fx
-  * [ ] logic
-  * [ ] respawn
-  * [ ] explosion
-* spawning
-  * [ ] team logic
-  * [ ] alignment
-* devgui
-  * [ ] manual spawn setup
-  * [ ] debug lines
-* fx
-  * [ ] damage
-  * [ ] drive
-  * [ ] shot
-  * [ ] impact
-* gun rotation
-  * [ ] check if its worth the coding
-* anim
-  * [ ] fake shot anim if its worth
-* radiusdamage
-  * [ ] implement scriptedradiusdamage
-* model
-  * [ ] add tags
-  * [ ] fix track blend issue
-  * [ ] combine tracks and body if no more anim is needed
-  * [ ] modify gun model ifrotation issue isnt solved
+- huds
+  - target hud
+  - tank hud + damage + rotation
+- sound
+  - idle
+  - fire
+  - rotation
+  - drive
+  - drive backwards
+- damage
+  - hud
+  - fx
+  - logic
+  - respawn
+  - explosion
+- spawning
+  - team logic
+  - alignment
+- devgui
+  - manual spawn setup
+  - debug lines
+- fx
+  - damage
+  - drive
+  - shot
+  - impact
+- gun rotation
+  - check if its worth the coding
+- anim
+  - fake shot anim if its worth
+- radiusdamage
+  - implement scriptedradiusdamage
+- model
+  - add tags
+  - fix track blend issue
+  - combine tracks and body if no more anim is needed
+  - modify gun model ifrotation issue isnt solved
