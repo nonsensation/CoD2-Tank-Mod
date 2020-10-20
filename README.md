@@ -2,15 +2,9 @@
 
 ## [See the video on YouTube](https://www.youtube.com/watch?v=UOOqMKkkc8o)
 
-![Call of Duty 2 Tank](CoD2_Tank.jpg)
+![Call of Duty 2 Tank](CoD_Tank.jpg)
 
 Clientside files are needed for running this.
-
-Version: 001
-
-Stay updated and download the latest version here: [killtube.org](http://killtube.org/showthread.php?1624-DOWNLOAD-COD2-TANKs&p=7572#post7572)
-
-Happy killing, cheers :3li
 
 ## Setup
 
