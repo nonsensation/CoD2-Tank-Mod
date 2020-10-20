@@ -1,8 +1,6 @@
 # Tanks for CoD2
 
-## [See the video on YouTube](https://www.youtube.com/watch?v=UOOqMKkkc8o)
-
-![Call of Duty 2 Tank](CoD_Tank.jpg)
+## [![Call of Duty 2 Tank](CoD_Tank.jpg)](https://www.youtube.com/watch?v=UOOqMKkkc8o)
 
 Clientside files are needed for running this.
 
