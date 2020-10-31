@@ -25,8 +25,6 @@ I [mentioned here](https://killtube.org/showthread.php?1697-Player-Bounding-Volu
 On each vehicle. Ten times a second.  
 Traces in CoD2 are a rather expensive script-function to call, a few don't matter, but for the UN mod, it added up rather quickly, the mod became laggy with a handful of players driving around.
 
-<p float="right"><img src="tank.png" width="20%" /></p>
-
 ![Tanks](tank.png)
 
 So for this mod, I approached it with this in my mind - to use as few traces as possible with a decent enough result.  
