@@ -1,4 +1,6 @@
-# Tanks for CoD2
+<h1 align="center">Call of Duty 2 - Tanks</h1>
+
+<h4 align="center">Click on the image for a YouTube Preview:</h4>
 
 ## [![Call of Duty 2 Tank](CoD_Tank.jpg)](https://www.youtube.com/watch?v=UOOqMKkkc8o)
 
@@ -22,6 +24,8 @@ In addition to that, it uses multiple traces in a box form around the vehicle fo
 I [mentioned here](https://killtube.org/showthread.php?1697-Player-Bounding-Volumes-%28Tank-Diskussion-Spinoff%29), that the UN mod uses around 20 traces for taht.
 On each vehicle. Ten times a second.  
 Traces in CoD2 are a rather expensive script-function to call, a few don't matter, but for the UN mod, it added up rather quickly, the mod became laggy with a handful of players driving around.
+
+<p float="right"><img src="tank.png" width="20%" /></p>
 
 ![Tanks](tank.png)
 
